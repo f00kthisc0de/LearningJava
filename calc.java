@@ -13,7 +13,7 @@ public class Program{
 		operator = input.next().charAt(0);
 
 		// ask the user for the 2 numbers
-		System.out.println("Bitte geben Sie 2 Nummern ein die Berechnet werden sollen");
+		System.out.println("Bitte geben Sie 2 Zahlen ein die berechnet werden sollen:");
 		num1 = input.nextDouble();
 		num2 = input.nextDouble();
 
